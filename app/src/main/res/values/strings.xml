@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">Care Home App</string>
+    <string name="globe_icon_description">Language selection</string>
+    <string name="language_code">EN</string>
+    <string name="welcome">Welcome</string>
+    <string name="find_care_homes_title">Find your perfect care home</string>
+    <string name="search_placeholder">Search by location or care type</string>
+    <string name="search_icon_description">Search</string>
+    <string name="illustration_description">Care home illustration</string>
+    <string name="login_sign_up">Login / Sign up</string>
+
+    <!-- Login Screen -->
+    <string name="back_button">Back</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_subtitle">Please sign in to your account</string>
+    <string name="tab_login">Login</string>
+    <string name="tab_sign_up">Sign Up</string>
+    <string name="email_placeholder">Email address</string>
+    <string name="password_placeholder">Password</string>
+    <string name="toggle_password_visibility">Toggle password visibility</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login_button">Login</string>
+    <string name="no_account_text">Don\'t have an account?</string>
+    <string name="sign_up_link">Sign up</string>
 </resources>
