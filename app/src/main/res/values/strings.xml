@@ -22,4 +22,55 @@
     <string name="login_button">Login</string>
     <string name="no_account_text">Don\'t have an account?</string>
     <string name="sign_up_link">Sign up</string>
+
+    <!-- Search Care Home Screen -->
+    <string name="content_description_back">Back</string>
+    <string name="search_care_homes_title">Search Care Homes</string>
+    <string name="content_description_filter">Filter</string>
+    <string name="sort_distance">Distance</string>
+    <string name="sort_rating">Rating</string>
+    <string name="sort_newest">Newest</string>
+    <string name="location_label">Location</string>
+    <string name="status_available">Available</string>
+    <string name="status_full">Full</string>
+
+    <!-- Care Home Detail Screen -->
+    <string name="care_home_name">Serene Gardens Care Home</string>
+    <string name="content_desc_back">Back</string>
+    <string name="content_desc_care_home_image">Care home image</string>
+    <string name="location_new_york">New York, USA</string>
+    <string name="review_count_124">(124 Reviews)</string>
+    <string name="content_desc_star">Star %1$d</string>
+    <string name="content_desc_verified">Verified</string>
+    <string name="verified">Verified</string>
+    <string name="about_this_care_home">About this care home</string>
+    <string name="about_description">Providing exceptional care and a warm, welcoming environment for our residents. Our dedicated staff is committed to ensuring comfort, safety, and dignity for everyone in our care.</string>
+    <string name="services_offered">Services Offered</string>
+    <string name="service_nursing_care">24/7 Nursing Care</string>
+    <string name="service_medication">Medication Management</string>
+    <string name="service_meals">Nutritious Meals</string>
+    <string name="reviews_and_ratings">Reviews &amp; Ratings</string>
+    <string name="rating_value">4.8</string>
+    <string name="total_reviews">Total 124 reviews</string>
+    <string name="view_all_reviews">View All</string>
+    <string name="content_desc_reviewer_avatar">Reviewer avatar</string>
+    <string name="reviewer_name">Jane Doe</string>
+    <string name="review_comment">The staff here is amazing! They truly care about the residents and make them feel at home.</string>
+    <string name="contact_now">Contact Now</string>
+    <string name="content_desc_phone">Phone icon</string>
+
+    <!-- Reviews and Ratings Screen -->
+    <string name="title_reviews_ratings">Reviews &amp; Ratings</string>
+    <string name="based_on_reviews">Based on %1$d reviews</string>
+    <string name="content_desc_rating_stars">Rating stars</string>
+    <string name="reviewer_michael_smith">Michael Smith</string>
+    <string name="time_one_day_ago">1 day ago</string>
+    <string name="review_michael">The care provided here is exceptional. The staff is very attentive and professional.</string>
+    <string name="reviewer_sara_ahmed">Sara Ahmed</string>
+    <string name="time_three_days_ago">3 days ago</string>
+    <string name="review_sara">A wonderful place for my mother. She feels very comfortable and happy here.</string>
+    <string name="reviewer_john_ellis">John Ellis</string>
+    <string name="time_five_days_ago">5 days ago</string>
+    <string name="review_john">Highly recommend this care home. Clean facilities and great community atmosphere.</string>
+    <string name="content_desc_avatar">%1$s\'s avatar</string>
 </resources>
